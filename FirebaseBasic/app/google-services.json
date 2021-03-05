@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "543699033796",
+    "project_id": "cloudmessaginglearning",
+    "storage_bucket": "cloudmessaginglearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543699033796:android:228f8424902f448d90b391",
+        "android_client_info": {
+          "package_name": "jp.co.casareal.firebasebasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsv2QVbDoku35-eOS5SAM5eS1a-_IHqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543699033796:android:ef6ebf47ce1e6c4490b391",
+        "android_client_info": {
+          "package_name": "jp.co.casareal.firebasebasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsv2QVbDoku35-eOS5SAM5eS1a-_IHqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543699033796:android:b7938904c960d38e90b391",
+        "android_client_info": {
+          "package_name": "jp.co.casareal.firebasecloudmessagingsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsv2QVbDoku35-eOS5SAM5eS1a-_IHqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543699033796-5t1lj3k13c734fran3k0ku7l9akovssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
